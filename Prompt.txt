@@ -1,0 +1,64 @@
+I want to create and html5 playable ads.
+I have an udiobook app it syncronize with text.
+when audio plays its transcribe is matched with text and it is higlihted with text.
+when you click on any words, you see its dictionary. And the highlighted text has a transcription accordingt to users native langugae.
+The layout is android samsung s23 ultra layout. 
+It has audio player UI too.
+
+I have text, audio and acording to transcribe audio its subtitle srt file.
+
+This is my audio link "https://s25.aconvert.com/convert/p3r68-cdx67/iq82r-t04i2.m4a"
+This is my subtitle :
+
+1
+00:00:00,000 --> 00:00:08,960
+The big caves
+
+2
+00:00:08,960 --> 00:00:09,680
+My name is Taras.
+
+3
+00:00:09,680 --> 00:00:12,120
+I am old...
+
+4
+00:00:12,120 --> 00:00:15,480
+3,000 years old.
+
+5
+00:00:15,480 --> 00:00:19,400
+I sit here, under the Palace of Knossos.
+
+6
+00:00:19,400 --> 00:00:22,200
+My sister, Aketa, sits next to me.
+
+7
+00:00:22,200 --> 00:00:24,240
+She, too, is old.
+
+8
+00:00:24,240 --> 00:00:27,200
+3,000 years.
+
+I want it's translations in a textview at bottom and when click on any word its dictionary will popup. If it was playing before clicking any word, when close the popup it continues to play.
+Translation will be korean language. Dictionary will be english to Korean too.
+
+I dont want to higlight word by word. Highlight the text in the srt when the queue came of the item. I mean the full text that is the came for example item 7, the highlighted text should be "She, too, is old." Highlight color is green. But 
+not the full line, only text color will change not the background color.
+Style is Epub book format. You can check UI design by checking this application. English Stories With Levels, link : "https://play.google.com/store/apps/details?id=com.wnativeslearn.wnativeslearn"
+The UI design is "https://play-lh.googleusercontent.com/R8eWGJtpt8UWlTtRbQKYfXSrvn2iZ14Xy9Y70kPJj2wkB0vLEG2NVb9z28TMnUEGiig=w2560-h1440-rw" and added it as attached file too. take reference it for text and audio too
+
+I want circular audiplayer. It should be at bottom and it has 5 seconds rewind and 5 seonds forward button too. 
+
+at left rewind button, later audio play pause button, and ffwd button, those are not text button, it has style, at the last side, up and down button they are oval rectangle, at upside it increase speed, at bottom it decrease speed.
+above of audio player it hase seekbar, right side shows the current timestamp and end of the progresbar it shows duration. Middle of the progressbar shows the speed of audio, increase or decrease speed butons connected tot those, This is completely audio view.
+It is background is methalic black.
+
+At left side it has drawer and it shows content. At the top bar layout it has searchbar and option. Searchbar shows the searched text in text field and when click the matched search, it jumps to that search in the text field.
+Settings button, it shows it as bottomsheet, it has text size setting, font setting and nigt mode and day mode settings.
+Size sizettings has 4 different type, it is in progresbar and byswipingleft it increase the size. It has 4 different font types, it is horizintal layout buttons,active font is green text.
+
+Can you preapre it for me?
+
